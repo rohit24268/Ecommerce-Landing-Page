@@ -80,7 +80,7 @@ export function renderOrderSummary()
             <div class="delivery-options-title">
                 Choose a delivery option:
             </div>
-            ${deliveryOptionsHtml(matchingProduct,cartItem)};
+            ${deliveryOptionsHtml(matchingProduct,cartItem)}
             </div>
         </div>
         </div>
