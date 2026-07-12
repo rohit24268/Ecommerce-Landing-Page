@@ -9,7 +9,7 @@ export function renderCheckoutHeader()
     `
     <div class="header-content">
     <div class="checkout-header-left-section">
-        <a href="ecommerce.html" class="brand-logo">ShopNow</a>
+        <a href="index.html" class="brand-logo">ShopNow</a>
     </div>
 
     <div class="checkout-header-middle-section">
