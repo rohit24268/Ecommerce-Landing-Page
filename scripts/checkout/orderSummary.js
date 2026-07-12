@@ -84,7 +84,7 @@ export function renderOrderSummary()
             </div>
         </div>
         </div>
-        `;
+        `
     });
     let elem=document.querySelector('.js-order-summary')
     if(elem)
